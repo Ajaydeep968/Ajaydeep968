@@ -2,8 +2,6 @@
 
 <!-- [![@ajaydeep123's Holopin board](https://holopin.me/ajaydeep123)](https://holopin.io/@ajaydeep123) -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaydeep123&label=Profile%20views&color=0e75b6&style=flat" alt="ajaydeep123" /> </p>
-
 <p align="left"> <a href="https://twitter.com/ajaydeeprajput" target="blank"><img src="https://img.shields.io/twitter/follow/ajaydeeprajput?logo=twitter&style=for-the-badge" alt="ajaydeeprajput" /></a> </p>
 
 - 🔭 I’m currently working as a **Freelance frontend developer.**
